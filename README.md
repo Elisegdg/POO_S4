@@ -1,3 +1,7 @@
+# Avancée lors des TP
+
+Séance 1 09/02/2022 -> Set up de l'espace de travail via les leçons et début des TP
+
 # Simple-Cpp-Setup
 
 Welcome to this minimalist C++ project!
