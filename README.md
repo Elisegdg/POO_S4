@@ -1,4 +1,4 @@
-# Avancée lors des TP
+# :arrow_right: Avancée lors des séances
 
 **Séance 1 09/02/2022** -> Set up de l'espace de travail via les leçons et début des TP
 
