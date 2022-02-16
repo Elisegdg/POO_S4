@@ -1,13 +1,6 @@
 #include <iostream>
+#include "../Common/get_input_from_user.hpp"
 #include "../Common/random.hpp"
-
-int get_int_from_user()
-{
-    int numberPicked;
-    std::cin >> numberPicked;
-    return numberPicked;
-    // TODO ;) Use std::cin to get an int, and then return it
-}
 
 void play_guess_the_number()
 {
