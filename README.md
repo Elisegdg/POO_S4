@@ -1,8 +1,24 @@
-# :arrow_right: Avancée lors des séances
+# :purple_circle:   Session achievements 
 
-**Séance 1 09/02/2022** -> Set up de l'espace de travail via les leçons et début des TP
+**Session 1 - 09/02/2022** -> Set up of my workspace with level 1 lessons, beginning of the assignments.
 
-**Séance 2 16/02/2022** -> Guess the number done, mise en place de template et division en sous fichiers, je commence à compléter les fonction pour Hangman
+**Session 2 - 16/02/2022** -> Finished "Guess the number", implementation of template and refactoring game in multiple files (header & source file). Starting the Hangman game.
+
+
+# :purple_circle:   Lessons achievements
+
+## LEVEL 1 
+
+Install a compiler
+
+Use an IDE
+
+Use Git
+
+
+
+# :purple_circle:   Assignments achievements
+
 
 # Simple-Cpp-Setup
 
