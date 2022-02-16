@@ -1,11 +1,11 @@
-# :purple_circle:   Session achievements 
+# :potted_plant:   Session achievements 
 
 **Session 1 - 09/02/2022** -> Set up of my workspace with level 1 lessons, beginning of the assignments.
 
 **Session 2 - 16/02/2022** -> Finished "Guess the number", implementation of template and refactoring game in multiple files (header & source file). Starting the Hangman game.
 
 
-# :purple_circle:   Lessons achievements
+# :potted_plant:   Lessons achievements
 
 ## LEVEL 1 
 
@@ -17,7 +17,7 @@ Use Git
 
 
 
-# :purple_circle:   Assignments achievements
+# :potted_plant:   Assignments achievements
 
 
 # Simple-Cpp-Setup
