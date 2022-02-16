@@ -1,6 +1,7 @@
 # Avancée lors des TP
 
-Séance 1 09/02/2022 -> Set up de l'espace de travail via les leçons et début des TP
+*Séance 1 09/02/2022* -> Set up de l'espace de travail via les leçons et début des TP
+*Séance 2 16/02/2022* -> Guess the number done, mise en place de template et division en sous fichiers, je commence à compléter les fonction pour Hangman
 
 # Simple-Cpp-Setup
 
