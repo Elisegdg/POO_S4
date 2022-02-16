@@ -9,11 +9,9 @@
 
 ## LEVEL 1 
 
-Install a compiler
-
-Use an IDE
-
-Use Git
+**Install a compiler** -> DONE
+**Use an IDE** -> DONE 
+**Use Git**
 
 
 
