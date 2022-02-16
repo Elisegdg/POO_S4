@@ -9,8 +9,10 @@
 
 ## LEVEL 1 
 
-**Install a compiler** -> DONE
-**Use an IDE** -> DONE 
+**Install a compiler** -> DONE :heavy_check_mark:
+
+**Use an IDE** -> DONE :heavy_check_mark: 
+
 **Use Git**
 
 
