@@ -19,6 +19,8 @@
 
 # :potted_plant:   Assignments achievements
 
+**Guess the number** -> DONE :heavy_check_mark:
+
 
 # Simple-Cpp-Setup
 
