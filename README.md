@@ -4,6 +4,8 @@
 
 **Session 2 - 16/02/2022** -> Finished "Guess the number", implementation of template and refactoring game in multiple files (header & source file). Starting the Hangman game.
 
+**Session 3 - 23/02/2022** -> Reading lessons, finished level 1 and in the middle of level 2. While I was reading level 1 I changed some naming and syntaxes in the exercices that I've done last session.
+
 
 # :potted_plant:   Lessons achievements
 
@@ -37,11 +39,12 @@
 **Make it work, then make it good** -> DONE :heavy_check_mark:
 
 **Prefer free fonctions** -> DONE :heavy_check_mark:
-- Use struc and not class if you don't have invariants (const)
+- Use struct and not class if you don't have invariants (const)
 
-**Design cohesive classes**
+**Design cohesive classes** -> DONE :heavy_check_mark:
 
-**Use structs to group data**
+**Use structs to group data** -> DONE :heavy_check_mark:
+- Use structs as fonction parameters to reuse some values that are duplicating
 
 **Write small fonctions**
 
