@@ -12,6 +12,7 @@
 **Install a compiler** -> DONE :heavy_check_mark:
 
 **Use an IDE** -> DONE :heavy_check_mark: 
+- I need to remember using these quick actions while coding
 
 **Use Git** -> DONE :heavy_check_mark: 
 
@@ -30,6 +31,27 @@
 
 **Consistency in style** -> DONE :heavy_check_mark: 
 - Using snake_case convention
+
+## LEVEL 2
+
+**Make it work, then make it good** -> DONE :heavy_check_mark:
+
+**Prefer free fonctions** -> DONE :heavy_check_mark:
+- Use struc and not class if you don't have invariants (const)
+
+**Design cohesive classes**
+
+**Use structs to group data**
+
+**Write small fonctions**
+
+**DRY : Don't repeat yourself**
+
+**Enums**
+
+**Split problem in small pieces**
+
+**Composition over Inheritance**
 
 
 # :potted_plant:   Assignments achievements
