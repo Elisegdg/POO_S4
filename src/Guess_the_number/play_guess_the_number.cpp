@@ -4,7 +4,7 @@
 
 void play_guess_the_number()
 {
-    int  number_random = rand<int>(0, 100);
+    auto number_random = rand<int>(0, 100);
     bool is_finished   = false;
     while (!is_finished) {
         // Ask for a number
