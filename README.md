@@ -78,3 +78,5 @@
 **Guess the number** -> DONE :heavy_check_mark:
 
 **Hangman** -> DONE :heavy_check_mark:
+
+**Add a menu** -> DONE :heavy_check_mark:
