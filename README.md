@@ -46,17 +46,35 @@
 **Use structs to group data** -> DONE :heavy_check_mark:
 - Use structs as fonction parameters to reuse some values that are duplicating
 
-**Write small fonctions**
+**Write small fonctions** -> DONE :heavy_check_mark:
 
-**DRY : Don't repeat yourself**
+**DRY : Don't repeat yourself** -> DONE :heavy_check_mark:
 
-**Enums**
+**Enums** -> DONE :heavy_check_mark:
 
-**Split problem in small pieces**
+**Split problem in small pieces** -> DONE :heavy_check_mark:
 
-**Composition over Inheritance**
+**Composition over Inheritance** -> DONE :heavy_check_mark:
+
+## LEVEL 3
+
+**std::vector** -> DONE :heavy_check_mark:
+
+**Minimize dependencies** -> DONE :heavy_check_mark:
+
+**Strong type** -> READ :heavy_check_mark:
+
+**Use librairies** -> READ :heavy_check_mark:
+
+**Range-based for loop** -> READ :heavy_check_mark:
+
+**Testing** -> READ :heavy_check_mark:
+
+**Lambda functions** -> READ :heavy_check_mark:
 
 
 # :potted_plant:   Assignments achievements
 
 **Guess the number** -> DONE :heavy_check_mark:
+
+**Hangman** -> DONE :heavy_check_mark:
