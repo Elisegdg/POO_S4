@@ -10,10 +10,10 @@
 const char* pick_a_random_word()
 {
     static constexpr std::array words = {
-        "code",
-        "crous",
-        //"imac",
-        //"opengl",
+        "loulou",
+        "clarckie",
+        "soleil",
+        "vacances",
     };
 
     // TODO: return a random element from the array
@@ -77,7 +77,7 @@ void show_number_of_lives(int number_of_lives)
 
 bool player_is_alive(int number_of_lives)
 {
-    if (number_of_lives < 0) {
+    if (number_of_lives <= 0) {
         return false;
     }
     else {
@@ -85,9 +85,9 @@ bool player_is_alive(int number_of_lives)
     }
 }
 
-int remove_one_life(int& number_of_lives)
+void remove_one_life(int& number_of_lives)
 {
-    return number_of_lives - 1;
+    number_of_lives--;
 }
 
 // Showing messages related fonctions
