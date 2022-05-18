@@ -72,6 +72,8 @@
 
 **Lambda functions** -> READ :heavy_check_mark:
 
+**Git submodules** --> DONE :heavy_check_mark:
+
 
 # :potted_plant:   Assignments achievements
 
