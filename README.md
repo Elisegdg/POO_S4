@@ -74,6 +74,67 @@
 
 **Git submodules** --> DONE :heavy_check_mark:
 
+**Master your IDE** -> READ :heavy_check_mark:
+- Already trying to use shortcuts when coding
+
+**std::optional** -> DONE :heavy_check_mark:
+
+**Signe source of truth** -> DONE :heavy_check_mark:
+
+**Code reviews** -> WATCHED :heavy_check_mark:
+
+**Const** -> DONE :heavy_check_mark:
+
+**Documentation** -> DONE :heavy_check_mark:
+- already used doxygen last year
+
+**Don't overfocus on performance** -> READ :heavy_check_mark:
+
+**Git submodules** -> DONE :heavy_check_mark:
+
+**STL algorithms** -> READ :heavy_check_mark:
+
+**Assert** -> READ :heavy_check_mark:
+
+**Auto** -> READ :heavy_check_mark:
+
+**Debug vs release** -> READ :heavy_check_mark:
+
+**Immediatly invoked function** -> READ :heavy_check_mark:
+
+**Markdown** -> READ :heavy_check_mark:
+
+**Smart pointers** -> READ :heavy_check_mark:
+
+**std::functions** -> READ :heavy_check_mark:
+
+**Dependency injection** -> READ :heavy_check_mark:
+
+**Error handling** -> READ :heavy_check_mark:
+
+**Git pull request** -> READ :heavy_check_mark:
+
+**Advanced git features** -> READ :heavy_check_mark:
+
+**Cmake** -> READ :heavy_check_mark:
+
+**Functionnal programming** -> READ :heavy_check_mark:
+
+**The rule of 5** -> READ :heavy_check_mark:
+
+**State and strategy** -> READ :heavy_check_mark:
+
+**std::variant** -> READ :heavy_check_mark:
+
+**Cache and branches** -> READ :heavy_check_mark:
+
+**Multithreading** -> READ :heavy_check_mark:
+
+**Polymorphism** -> READ :heavy_check_mark:
+
+**Space out your code** -> READ :heavy_check_mark:
+
+
 
 # :potted_plant:   Assignments achievements
 
